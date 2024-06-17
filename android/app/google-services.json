@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "964126876489",
+    "project_id": "starter-db-81d3f",
+    "storage_bucket": "starter-db-81d3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964126876489:android:72dcdd96131266d6453098",
+        "android_client_info": {
+          "package_name": "com.dcruz.n"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-s3rZB2HCvAlefUTWNN2oRJE5nG2qODY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
